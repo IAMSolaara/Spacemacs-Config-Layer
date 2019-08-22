@@ -5,9 +5,9 @@
 
 
 ## Table of Contents
- + [Description]()
- + [Install]()
- + [Key bindings]()
+ + [Description](#Description)
+ + [Install](#Install)
+ + [Key bindings](#Key-Bindings)
 
 ## Description
 
