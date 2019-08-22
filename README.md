@@ -1,6 +1,6 @@
 # lorecast162 Spacemacs Config Layer
 
-![Logo](./img/logo.svg)
+![Logo](./img/logo.svg = 100x100)
 
 ## Table of Contents
  + [Description](#Description)
